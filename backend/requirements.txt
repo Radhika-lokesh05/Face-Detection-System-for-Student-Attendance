@@ -1,0 +1,10 @@
+flask
+flask-cors
+pymongo
+deepface
+mtcnn
+numpy
+opencv-python-headless
+scipy
+python-dotenv
+flask-bcryptz
